@@ -1,2 +1,3 @@
 # datasciencecoursera
-Test repo
+## Commit changes to a document
+### let's see how it works
